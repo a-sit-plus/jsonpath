@@ -1,5 +1,7 @@
 
-[UNRELEASED] Release 2.1.0:
+[UNRELEASED] Release 2.2.0:
+
+Release 2.1.0:
 - Add: Serialization for `NormalizedJsonPathSegment`, `NormalizedJsonPath` and `NodeListEntry`
 
 Release 2.0.0:
